@@ -63,7 +63,7 @@ Hi, I'm **Saran Sarvesh** — a highly motivated full stack developer and deep l
 
 📧 **Email:** saransarvesh213@gmail.com  
 💼 **LinkedIn:** [Saran Sarvesh A G](https://www.linkedin.com/in/saran-sarvesh-a-g-950357285/)  
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1ngsPLl1-J0iLsUi129Wz2yOufDafeoAn/view?usp=sharing)
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1UxHqPqUjk-7eurf4sK6MU-C3T0C5OLjz/view?usp=sharing)
 
 ---
 
