@@ -12,7 +12,7 @@
   
 [![Email](https://img.shields.io/badge/📧_saransarvesh213@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saransarvesh213@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saran-sarvesh-a-g-950357285/)
-[![Resume](https://img.shields.io/badge/📄_Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1UxHqPqUjk-7eurf4sK6MU-C3T0C5OLjz/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄_Resume-0A66C2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1zKLMeTualmgdJ_-k_nkSHAV_dmym1peN/view?usp=drivesdk)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-git-main-sarans-projects-ffa5672c.vercel.app?_vercel_share=JGVI3dHXzT8pxoEqOH1VvIEMhxisrKrZ)
 
 </div>
