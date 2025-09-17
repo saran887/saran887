@@ -101,7 +101,7 @@ Hi there! 👋 I'm **Saran Sarvesh** — a passionate **full stack developer** a
 
 | 🎯 Project | 📝 Description | 🔗 Links |
 |------------|----------------|----------|
-| **🚍 Real-Time Object Detection** | AI-powered real-time object detection system with voice alerts for enhanced accessibility and safety | [GitHub](https://github.com/saran887/Real-Time-Object-Detection-with-voice) |
+| **🚍 Vehicle UnderBody  Monitoring System** | This project develops a real-time multi-angle object detection system for heavy vehicles using MobileNet SSD on Android devices, aimed at reducing blind-spot accidents by providing visual and audio alerts to drivers.| [GitHub](https://github.com/saran887/Real-Time-Object-Detection-with-voice) |
 | **🏗️ Construction Portfolio** | Modern, responsive website showcasing construction company's projects with interactive galleries | [GitHub](https://github.com/saran887/Construction-Website) |
 | **🗳️ Smart Voting System** | AI-powered voting platform with face verification to ensure secure and fraud-free elections | [GitHub](https://github.com/saran887/smart-voting-system) |
 | **📈 Sales Card Generator** | Dynamic tool for creating customizable sales cards with analytics and performance tracking | [GitHub](https://github.com/saran887/sales-card-generator) |
