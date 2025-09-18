@@ -158,9 +158,6 @@ I actively practice **Data Structures & Algorithms** on LeetCode to improve my p
 
 <div align="center">
 
-> *"The best error message is the one that never shows up."* 💡  
-> **— Thomas Fuchs**  
-
-> *"Code is more than logic—it's problem-solving in action."* 🚀  
+> "Never Give UP " 🚀  
 
 </div>
