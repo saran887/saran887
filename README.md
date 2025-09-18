@@ -106,6 +106,7 @@ Hi there! 👋 I'm **Saran Sarvesh** — a passionate **full stack developer** a
 | **🗳️ Smart Voting System** | AI-powered voting platform with face verification to ensure secure and fraud-free elections | [GitHub](https://github.com/saran887/smart-voting-system) |
 | **📈 Sales Card Generator** | Dynamic tool for creating customizable sales cards with analytics and performance tracking | [GitHub](https://github.com/saran887/sales-card-generator) |
 | **🛒 IoT E-Commerce Platform** | Full-stack e-commerce solution specifically designed for IoT components with inventory management | [GitHub](https://github.com/saran887/iot-webpage) |
+| **🛒 Vehicle UnderBody Monitoring System With - USB Camera ** | This project develops a real-time multi-angle object detection system for heavy vehicles using MobileNet SSD on Android System WIth the USB Camera , aimed at reducing blind-spot accidents by providing visual and audio alerts to drivers | [GitHub](https://github.com/saran887/usb-object-detection-android-app) |
 
 </div>
 
